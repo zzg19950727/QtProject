@@ -6,9 +6,6 @@ int score,q, p;
 
 int num(int n)
 {
-    /*if( n <= 0 )
-        return 0;
-    return (int)(log(n)/log(2));*/
     switch( n )
     {
     case 0:
